@@ -1,4 +1,4 @@
-# Projeto E-commerce DIO
+# Projeto E-Commerce DIO
 O projeto E-Commerce DIO, é um desafio do curso de SQL da DIO, onde estamos desenvolvendo um Projeto Conceitual de Banco de Dados para o modelo de E-Commerce.
 Este documento do projeto descreve o desenvolvimento do modelo de banco de dados de um sistema de E-Commerce, abrangendo desde o diagrama inicial até as refinarias realizadas para atender aos novos requisitos do desafio.
 
