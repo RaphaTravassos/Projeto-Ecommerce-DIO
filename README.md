@@ -33,10 +33,15 @@ _______________
 ### Relacionamentos de Chaves:
 
  • Cliente → Pessoa_Física (1:0..1)
+ 
  • Cliente → Pessoa_Jurídica (1:0..1)
+ 
  • Cliente → Pagamento (1:N)
+ 
  • Pedido → Pagamento (1:1)
+ 
  • Pedido → Entrega (1:1)
+ 
  • Pedido → Produto (N:M)
 
 ### 👏✅ Conclusão:
